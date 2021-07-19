@@ -11,4 +11,5 @@
 ### VS Code
 
 - **Command/Ctrl-SHIFT-P**: Create a new blank Jupiter Notebook in VS Code
+- **SHIFT-Enter**:          Run a cell in current Jupiter Notebook in VS Code
 
