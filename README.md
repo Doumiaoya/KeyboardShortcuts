@@ -12,4 +12,7 @@
 
 - **Command/Ctrl-SHIFT-P**: Create a new blank Jupiter Notebook in VS Code
 - **SHIFT-Enter**:          Run a cell in current Jupiter Notebook in VS Code
-
+- **Command/Ctrl-SHIFT-7**: Toggle line comment
+- **Alt-SHIFT-A**:          Toggle block comment
+- **Command/Ctrl-/**:       Add block comment in Jypter Notebook
+- 
