@@ -25,3 +25,9 @@
 - **Alt-SHIFT-A**:          Toggle block comment
 - **Command/Ctrl-/**:       Add block comment in Jypter Notebook
 - 
+
+## Software
+#### Adobe Acrobat
+
+- **Command-L**:            Switch to full screen
+- **Command-Shift-H**:      Reading mode
