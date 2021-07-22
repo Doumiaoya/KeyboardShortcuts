@@ -4,18 +4,19 @@
 ## Operating systems
 
 #### MacOS
-- **Command-K**: go to server
-  
+- **Command-K**:           Go to server
+- **Command-Shift-Q**:     Log out
+- **Control-Command-Q**:   Lock screen
   
   
 ## Integrated Development Environment + Text Editors
 #### R/RStudio
 
-- **Cmd/Ctrl-Shift-N**:   starts new empty file
-- **Cmd/Ctrl-S**:         saves your script
-- **Cmd/Ctrl-Enter**:     executes the current code in the console (the most important one)
-- **Cmd/Ctrl-Shift-S**:   executes the complete script (checks if the script is complete)
-- **Cmd/Ctrl-Shift-F10**: restarts RStudio
+- **Cmd/Ctrl-Shift-N**:    starts new empty file
+- **Cmd/Ctrl-S**:          saves your script
+- **Cmd/Ctrl-Enter**:      executes the current code in the console (the most important one)
+- **Cmd/Ctrl-Shift-S**:    executes the complete script (checks if the script is complete)
+- **Cmd/Ctrl-Shift-F10**:  restarts RStudio
 
 #### VS Code
 
