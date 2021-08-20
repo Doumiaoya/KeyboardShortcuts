@@ -34,6 +34,10 @@
 - **Command-L**:            Switch to full screen
 - **Command-Shift-H**:      Reading mode
 
+#### Microsoft Outlook
+
+- **Cmd/Ctrl-Enter**:       Send current email
+
 #### iMovie
 
 ##### Preview
