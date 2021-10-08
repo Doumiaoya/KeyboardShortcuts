@@ -7,8 +7,12 @@
 - **Command-K**:           Go to server
 - **Command-Shift-Q**:     Log out
 - **Control-Command-Q**:   Lock screen
-  
-  
+- **Shift-Command-3**:     Full Screen shot
+- **Shift-Command-4**:     Selected screen shot
+- **Shift-Command-5**:     Start screen recording
+- **Control-Command-Q**:   Stop screen recording
+
+
 ## Integrated Development Environment + Text Editors
 #### R/RStudio
 
