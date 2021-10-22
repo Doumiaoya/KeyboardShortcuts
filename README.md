@@ -11,6 +11,9 @@
 - **Shift-Command-4**:     Selected screen shot
 - **Shift-Command-5**:     Start screen recording
 - **Control-Command-Q**:   Stop screen recording
+- **Command-C**:   Copy files/folders
+- **Command-V**:   Paste files/folders
+- **Option(Alt)-Command-V**:   Move files/folders
 
 
 ## Integrated Development Environment + Text Editors
