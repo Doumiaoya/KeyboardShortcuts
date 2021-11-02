@@ -71,3 +71,16 @@
 - **`K and l/j`**: move little movement slo-mo
 - **`Q`**: Subtitle
 
+#### VLC media player
+- Suggested way of re-sync subtitle and video when they are out of sync
+  1. Press **Shift + H** when you hear a sentence that you will be able to easily recognize
+  2. Press **Shift + J** when you read the same sentence in the subtitle
+  3. Press **Shift + K** to correct the sync
+
+- Other options:
+  - **`H`**:              Align subtitle backward in time (unit: milliseconds)
+  - **`G`**:              Align subtitle forward in time (unit: milliseconds)
+  - **`J`**:              Align the voice backward in time (unit: milliseconds)
+  - **`K`**:              Align the voice forward in time (unit: milliseconds)
+
+
