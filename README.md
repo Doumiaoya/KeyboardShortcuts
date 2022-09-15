@@ -24,7 +24,7 @@
 - **Cmd/Ctrl-Enter**:      executes the current code in the console (the most important one)
 - **Cmd/Ctrl-Shift-S**:    executes the complete script (checks if the script is complete)
 - **Cmd/Ctrl-Shift-F10**:  restarts RStudio
-- **Cmd/Ctrl-Shift-M:      type in the pipe operator `%>%`
+- **Cmd/Ctrl-Shift-M**:    type in the pipe operator `%>%`
 - **Option/Alt + -**:      type in the assignment operator `<-`
 - **Ctrl-L**:              clear all the code from the console
 - **Ctrl-1**:              move the curser to the source editor
