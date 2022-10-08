@@ -4,7 +4,7 @@
 ## Operating systems
 
 #### MacOS
-- **Command-K**:              Go to server
+- **Command-K**:              Connect to server
 - **Command-Shift-Q**:        Log out
 - **Control-Command-Q**:      Lock screen
 - **Shift-Command-3**:        Full Screen shot
